@@ -1,11 +1,11 @@
-# text-infinitycyber-
+# -infinitycyber-
 # Oladapo Abdullah
 
 ### Cybersecurity Analyst | SOC Analyst | Security Researcher
 
 Welcome to my cybersecurity portfolio!
 
-I am an aspiring cybersecurity professional with a background in Mechatronics Engineering and a strong interest in security operations, threat detection, penetration testing, and security research.
+I am an cybersecurity professional with a background in Mechatronics Engineering and a strong interest in security operations, threat detection, penetration testing, and security research.
 
 My current focus is developing practical cybersecurity skills through hands-on laboratory environments, security tools, scripting, and independent research.
 
